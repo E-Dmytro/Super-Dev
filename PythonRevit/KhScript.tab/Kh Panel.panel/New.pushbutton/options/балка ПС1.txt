@@ -1,0 +1,43 @@
+int 12
+int 0
+int 0
+int 0
+int 0
+int 12
+int 13
+str 50
+str 50
+str 50
+str 50
+str 5
+str 0
+str 0
+str 0
+str 0
+str 5
+str 7
+str 50
+str 50
+str 50
+str 50
+int -1
+int -1
+int 8
+int -1
+int -1
+str 50
+str 50
+str 200
+str 1
+str 
+str 
+str 200
+str 
+str 
+str 200
+str 1
+str 
+str 0
+str 0
+int 0
+int 0
